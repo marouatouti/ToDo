@@ -7,7 +7,7 @@ Une application de todo list développée avec **Next.js** et stylisée avec **B
 - Authentification (connexion / inscription)
 - Ajout, modification et suppression de tâches
 - Interface responsive grâce à Bootstrap
-- Sauvegarde des données (à adapter selon ta base)
+
 
 ## 🛠️ Technologies utilisées
 
