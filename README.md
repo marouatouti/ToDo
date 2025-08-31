@@ -15,7 +15,7 @@ Une application de todo list développée avec **Next.js** et stylisée avec **B
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - Authentification : [NextAuth](https://next-auth.js.org/) *(ou autre si différent)*
-- Base de données : [MongoDB / Firebase / Supabase] *(à préciser)*
+- Base de données :  Supabase
 
 ## 📦 Installation
 
